@@ -5,7 +5,7 @@ Create a comprehensive grocery shopping and inventory management system that hel
 
 ## Project Description
 ### Purpose
-The project aims to provide a tool for users to efficiently manage their grocery lists, keep track of items running low in supply at home, and streamline their grocery shopping experience. Users can easily set up their inventory, manage thresholds, and optimise their shopping lists.
+The project aims to provide a tool for people like me who grocery shop frequently to efficiently manage their grocery lists, keep track of items running low in supply at home, and streamline their grocery shopping experience. Users can easily set up their inventory, manage thresholds, and optimise their shopping lists.
 
 ### Features
 1. **Adding Items to Shopping List:** Users can easily add grocery items to their shopping list, specifying item names, categories (e.g., fruits, vegetables, household supplies), and quantities to purchase.
