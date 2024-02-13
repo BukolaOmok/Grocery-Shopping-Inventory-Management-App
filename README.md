@@ -54,5 +54,5 @@ The project aims to provide a tool for people like me who grocery shop frequentl
 (It has already being connected to Github as we speak and frequent commits will be done throughout the lifecycle of the development)
 
 ### Project Timeline
-- The estimated completion time for the basic version of the app is [29th of February, 2024].
+- The estimated completion time for the basic version of the app is [29th of April, 2024].
 - Additional features and improvements can be implemented in subsequent phases.
